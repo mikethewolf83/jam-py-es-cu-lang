@@ -1,2 +1,5 @@
 # jam-py-es-cu-lang
-https://github.com/jam-py/jam-py Spanish Cuba Language
+
+Spanish (es-CU) Language for:
+
+https://github.com/jam-py/jam-py 
